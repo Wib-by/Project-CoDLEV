@@ -21,7 +21,7 @@ CoDLEV is a scalable conglomerate of many components (well, as things should be)
 
 Current State
 ---
-This project is currently just a couple of markdowns stating purpose and vision. Uploaded to GitHub as a repo in a **proposal phase**.
+As of Oct 18, 2026, CoDLEV has entered a working development phase.
 
 Contacts and Author
 ---
